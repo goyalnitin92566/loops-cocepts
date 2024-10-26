@@ -9,7 +9,7 @@ while(i<=100):
   i = i + 1
 print("DONE")
 
-  # We can also do this by for loop as well
+# We can also do this by for loop as well
 i = 1
 
 # apply for loop
