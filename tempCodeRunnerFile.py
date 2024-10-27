@@ -1,6 +1,7 @@
-num = int(input("Enter a Number"))
+x = int(input("Enter a Number : "))
 # i = 1
-
-# while i <= 10:
-#   print(num,"x",i,"=",num*i)
+# sum = 0
+# while(i<=x):
+#   sum = sum + i
 #   i+=1
+# print(sum)
